@@ -1,5 +1,5 @@
 ## Todo App
-
+This is my first project on react
 ## Available Scripts
 
 In the project directory, you can run:
