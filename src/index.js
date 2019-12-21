@@ -8,9 +8,9 @@ import TodoList from './components/todo-list';
 const App = () => {
 
     const todoData = [
-        {label: 'Drink Coffee', impportant: false},
-        {label: 'Learn React', important: true},
-        {label: 'Create a react-project', important: false}
+        {label: 'Drink Coffee', impportant: false, id: 1},
+        {label: 'Learn React', important: true, id: 2},
+        {label: 'Create a react-project', important: false, id: 3}
     ];
     return (
         < div >
