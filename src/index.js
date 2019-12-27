@@ -5,7 +5,7 @@ import SearchPanel from './components/search-panel';
 import AppHeader from './components/app-header';
 import TodoList from './components/todo-list';
 
-import './index.css'
+import './index.css';
 
 const App = () => {
 
