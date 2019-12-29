@@ -1,5 +1,5 @@
 ## Todo App
-This is my first project on react.Let's see!
+This is my first project on react. Let's see!
 
 
 ## Available Scripts
